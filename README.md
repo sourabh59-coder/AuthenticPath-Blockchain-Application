@@ -45,6 +45,8 @@ This blockchain-based food supply chaindeals with all the challenges faced by tr
 2. Blockchain layer
 3. Infrastructure layer
 <br><br>
+![Screenshot (703)](https://github.com/sourabh59-coder/AuthenticPath-Blockchain-Application/assets/77907942/9acc033c-00a3-406d-b94f-4f867390e866)
+
 <br>
 
 # Application layer: -
